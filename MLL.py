@@ -1,10 +1,9 @@
 import numpy as np
 import pandas as pd
 import os
-import keras
 from sklearn.preprocessing import MinMaxScaler
-from keras.models import Sequential
-from keras.layers import Dense, LSTM
+from tensorflow.python.keras.models import Sequential
+from tensorflow.python.keras.layers import Dense, LSTM
 
 # Directory where CSV files are stored
 data_dir = "data/"
