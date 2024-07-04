@@ -6,7 +6,7 @@ Web Scraping with yfinance:
 
 ''' Use yfinance to download historical stock prices for each ticker.
 Save the scraped data into CSV files for further processing. '''
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Phase 2: Data Preprocessing
 Data Preprocessing:
 
