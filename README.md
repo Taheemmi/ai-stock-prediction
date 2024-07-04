@@ -1,7 +1,6 @@
 For stock prediction
-
 The first 3 is for the gathering and cleaning the data.
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Phase 1: Web Scraping
 Web Scraping with yfinance:
 
