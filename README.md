@@ -1,5 +1,6 @@
 Works but make sure the correct libaries are installed.
-TensorFlow - pandas
+
+TensorFlow - pandas - YFinance -
 
 
 
