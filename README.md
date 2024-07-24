@@ -1,3 +1,8 @@
+Works but make sure the correct libaries are installed.
+TensorFlow - pandas
+
+
+
 For stock prediction
 The first 3 is for the gathering and cleaning the data.
 
